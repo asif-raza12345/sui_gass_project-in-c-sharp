@@ -1,0 +1,17 @@
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\Siu_Gass_DataBaseSystem.exe.config
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\Siu_Gass_DataBaseSystem.exe
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\Siu_Gass_DataBaseSystem.pdb
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\MySql.Data.dll
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\System.Memory.dll
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\System.Buffers.dll
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\bin\Debug\MySql.Data.xml
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.csproj.AssemblyReference.cache
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.Form1.resources
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.Properties.Resources.resources
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.csproj.GenerateResource.cache
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.csproj.CoreCompileInputs.cache
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass.5EB84A66.Up2Date
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.exe
+C:\Users\asif\source\repos\Siu_Gass_DataBaseSystem\obj\Debug\Siu_Gass_DataBaseSystem.pdb
